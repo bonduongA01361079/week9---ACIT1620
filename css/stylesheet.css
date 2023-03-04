@@ -63,6 +63,10 @@ nav .ul {
     }
 }
 
+#div ul {
+    list-style-type: inside;
+    padding-left: 0%;
+}
 
 
 

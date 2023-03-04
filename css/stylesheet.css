@@ -63,15 +63,17 @@ nav .ul {
     }
 }
 
-#div ul {
-    list-style-type: inside;
-    padding-left: 0%;
+ul {
+    list-style: none;
+    padding: 0%;
 }
-
 .p {
     text-indent: 35%;
     padding: 0 80px;
 }
+
+
+
 
 
 
